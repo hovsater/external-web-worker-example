@@ -1,0 +1,21 @@
+{
+  "name": "external-web-worker",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "dist/external-web-worker.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "browserslist": [
+    "last 1 version"
+  ]
+}
